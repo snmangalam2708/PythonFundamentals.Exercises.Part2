@@ -2,7 +2,7 @@
 
 ## Accompanying resources
 * Slide deck: https://zipcoder.github.io/reveal-slides.data-engineering/zcw_content/python/fundamentals-part2.html
-* Reading: ThinkPython Chapter 3
+* Reading: Think Python Chapter 3
 
 
 ## Exercise 1
