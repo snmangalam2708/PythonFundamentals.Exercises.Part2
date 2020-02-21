@@ -43,8 +43,8 @@ Create a script called *exponentiator.py*
 * Create a variable called *square*. The value assigned to this variable should be a lambda expression that utilizes the *exponentiate* function to raise a number to the power of 2.
 * Create a variable called *cube*. The value assigned to this variable should be a lambda expression that utilizes the *exponentiate* function to raise a number to the power of 3.
 * In the main part of your script, print the output of square(2).
-* In the main part of your script, print the output of cube(3).
-* In the main part of your script, print the output of raise_to_fourth_power(4).
+* In the main part of your script, print the output of cube(2).
+* In the main part of your script, print the output of raise_to_fourth_power(2).
 
 * When executed, your script should provide the following output. 
 
